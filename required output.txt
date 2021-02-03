@@ -1,0 +1,10 @@
+1) Price($) per night for booking id 200123 = 233.74
+2) Earliest check in date for hotel id 1042 = 2015-10-27
+3) Five most expensive bookings (by total price), output as follows -> booking id : total price($) =
+227884 : 6996.92
+200015 : 6996.08
+234143 : 6996.08
+225931 : 6995.10
+231844 : 6993.42
+4) Total tax($) ABC owes on all bookings in the system = 890251.48
+
